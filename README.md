@@ -385,7 +385,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dstdevtk`][@stdlib/stats/strided/dstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanstdevtk`][@stdlib/stats/base/snanstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/sstdev`][@stdlib/stats/strided/sstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/stdevtk`][@stdlib/stats/base/stdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/stdevtk`][@stdlib/stats/strided/stdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/svariancetk`][@stdlib/stats/strided/svariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array using a one-pass textbook algorithm.</span>
 
 </section>
@@ -480,7 +480,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/sstdev]: https://github.com/stdlib-js/stats-strided-sstdev
 
-[@stdlib/stats/base/stdevtk]: https://github.com/stdlib-js/stats-base-stdevtk
+[@stdlib/stats/strided/stdevtk]: https://github.com/stdlib-js/stats-strided-stdevtk
 
 [@stdlib/stats/strided/svariancetk]: https://github.com/stdlib-js/stats-strided-svariancetk
 
